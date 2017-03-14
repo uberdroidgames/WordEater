@@ -1,0 +1,13 @@
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\MainWindow.baml
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\MainWindow.g.cs
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\App.g.cs
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\WordEater_MarkupCompile.cache
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\WordEater.g.resources
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\WordEater.Properties.Resources.resources
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Shanon\WordEater\WordEater\WordEater\bin\Debug\WordEater.exe
+U:\Shanon\WordEater\WordEater\WordEater\bin\Debug\WordEater.pdb
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\WordEater.exe
+U:\Shanon\WordEater\WordEater\WordEater\obj\x86\Debug\WordEater.pdb

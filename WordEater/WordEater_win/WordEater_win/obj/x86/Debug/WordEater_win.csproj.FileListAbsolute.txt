@@ -1,0 +1,17 @@
+U:\Shanon\WordEater\WordEater_win\WordEater_win\bin\Debug\WordEater_win.exe
+U:\Shanon\WordEater\WordEater_win\WordEater_win\bin\Debug\WordEater_win.pdb
+U:\Shanon\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Shanon\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.frmMain.resources
+U:\Shanon\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.Properties.Resources.resources
+U:\Shanon\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Shanon\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Shanon\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.exe
+U:\Shanon\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.pdb
+C:\temp\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.exe
+C:\temp\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.pdb
+C:\temp\WordEater\WordEater_win\WordEater_win\bin\Debug\WordEater_win.exe
+C:\temp\WordEater\WordEater_win\WordEater_win\bin\Debug\WordEater_win.pdb
+C:\temp\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.csprojResolveAssemblyReference.cache
+C:\temp\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.frmMain.resources
+C:\temp\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.Properties.Resources.resources
+C:\temp\WordEater\WordEater_win\WordEater_win\obj\x86\Debug\WordEater_win.csproj.GenerateResource.Cache
